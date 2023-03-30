@@ -78,8 +78,8 @@ defmodule Desktop.MixProject do
       # {:ex_sni, path: "../ex_sni"},
 
       # Phoenix & Plug
-      {:phoenix, "> 1.0.0"},
-      {:phoenix_live_view, "> 0.15.0"},
+      {:phoenix, "~> 1.7.0"},
+      {:phoenix_live_view, "> 0.18.0"},
       {:plug, "> 1.0.0"},
       {:gettext, "> 0.10.0"}
     ]
